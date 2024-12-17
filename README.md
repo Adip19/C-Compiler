@@ -1,6 +1,7 @@
 # C-Compiler
 Compiler for assembly language - capable of identifying compilation errors and translating code into encoded language.
 
+
 Project by  Adi Panker & Inbar Dagan:
 
 The folder contains a file named Symbol.as, which includes text and macros.
